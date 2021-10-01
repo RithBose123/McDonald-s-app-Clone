@@ -1,0 +1,26 @@
+[
+     {
+      "name":"French fries",
+      "price":200,
+      "description":"very tasty",
+      "image":"https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1600759909/Item/3620.jpg"
+      },
+      {
+      "name":"Burger",
+      "price":600,
+      "description":"very tasty",
+      "image":"https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1626682653/Item/5412.png"
+      },
+        {
+      "name":"Mc Saver",
+      "price":300,
+      "description":"very tasty",
+      "image":"https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1629986501/Hotcakes_ALC_-_MDS.png"
+      },
+         {
+      "name":"desert",
+      "price":500,
+      "description":"very tasty",
+      "image":"https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_250/v1478779468/Items/9.png"
+      }
+]
